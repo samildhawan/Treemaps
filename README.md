@@ -6,6 +6,9 @@ Sometimes the data in a tree has some useful notion of size. For example, in a t
 Treemaps are used in many contexts. Among the more popular uses are news headlines, various kinds of financial information, and computer disk usage. Some free programs use treemaps to visualize the size of files on your computer; for example:
 
 WinDirStatLinks for Windows
+
 Disk Inventory X for MacOS
+
 KDirStat for Linux
+
 In this assignment, I wrote an interactive treemap visualisation tool that we can use to visualize hierarchical data.
