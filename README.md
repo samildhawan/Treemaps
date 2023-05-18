@@ -1,4 +1,6 @@
 # Treemaps
+
+# Assignment Description:
 A treemap is a visualisation technique to show a tree’s structure according to the weights (or sizes) of its data values. It uses rectangles to show subtrees, scaled to reflect the proportional sizes of each piece of data.
 Trees are a fundamental data structure used to model hierarchical data. Often, a tree represents a hierarchical categorization of a base set of data, where the leaves represent the data values themselves, and internal nodes represent groupings of this data. Files on a computer can be viewed this way: regular files (e.g., PDF documents, video files, Python source code) are grouped into directories, which are then grouped into larger directories, etc.
 
@@ -13,6 +15,6 @@ KDirStat for Linux
 
 In this assignment, I wrote an interactive treemap visualisation tool that we can use to visualize hierarchical data.
 
-Marks / 100 for this assignment:
+# Marks / 100 for this assignment:
 
 88.44%
