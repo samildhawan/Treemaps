@@ -12,3 +12,7 @@ Disk Inventory X for MacOS
 KDirStat for Linux
 
 In this assignment, I wrote an interactive treemap visualisation tool that we can use to visualize hierarchical data.
+
+Marks / 100 for this assignment:
+
+88.44%
